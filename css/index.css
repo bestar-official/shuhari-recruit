@@ -1,0 +1,137 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.contents01 {
+    position: relative;
+}
+
+.youtube {
+    position: absolute;
+    top: 8%;
+    left: 10%;
+}
+
+.contents1 {
+    width: 100%;
+}
+
+.button01 {
+    width: 90%;
+}
+
+.contents02 {
+    position: relative;
+}
+
+.JobVacancies {
+    position: absolute;
+    top: 76%;
+    left: 10%;
+}
+
+.contents2 {
+    width: 100%;
+}
+
+.button02 {
+    width: 90%;
+}
+
+.contents03 {
+    position: relative;
+}
+
+.Entry {
+    position: absolute;
+    top: 55%;
+    left: 10%;
+}
+
+.contents3 {
+    width: 100%;
+}
+
+.button03 {
+    width: 90%;
+}
+
+.contents04 {
+    position: relative;
+}
+
+.home {
+    position: absolute;
+    top: 70%;
+    left: 20%;
+}
+
+.Insta {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+}
+
+.YT {
+    position: absolute;
+    top: 70%;
+    left: 62%;
+}
+
+.contents4 {
+    width: 100%;
+}
+
+.button04 {
+    width: 60%;
+}
+
+.button05 {
+    width: 60%;
+}
+
+.button06 {
+    width: 60%;
+}
+
+
+
+
+
+.back_button {
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
